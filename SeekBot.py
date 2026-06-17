@@ -624,7 +624,7 @@ def hard_submit_application(driver):
 
     try:
         submitted = driver.execute_script(
-            """
+            r"""
             const selectors = [
               'button[type="submit"]',
               '[data-testid="submit-application-button"]',

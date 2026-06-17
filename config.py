@@ -1,7 +1,8 @@
 ﻿CONFIG = {
     "search": {
         "search_urls": [
-            "https://www.seek.com.au/hospitality-jobs/in-All-Melbourne-VIC?worktype=243%2C245",
+            "https://au.seek.com/data-analyst-jobs-in-information-communication-technology/in-All-Perth-WA",
+            "https://au.seek.com/Business-analyst-jobs-in-information-communication-technology/in-All-Perth-WA?pos=1"
         ],
         "wait_timeout": 12,
         "page_load_wait": 1.2,
